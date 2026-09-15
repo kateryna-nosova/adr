@@ -1,0 +1,5 @@
+{
+  "payments": true,
+  "clients": false,
+  "advisors": true
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "erp": "test1",
+    "bank": "bmo",
+    "payments": true,
+    "clients": false,
+    "advisors": true
+  },
+  {
+    "erp": "test1",
+    "bank": "cibc",
+    "payments": false,
+    "clients": false,
+    "advisors": false
+  },
+  {
+    "erp": "test1",
+    "bank": "wells",
+    "payments": false,
+    "clients": false,
+    "advisors": false
+  },
+  {
+    "erp": "test2",
+    "bank": "bmo",
+    "payments": false,
+    "clients": false,
+    "advisors": false
+  },
+  {
+    "erp": "test2",
+    "bank": "cibc",
+    "payments": false,
+    "clients": false,
+    "advisors": false
+  },
+  {
+    "erp": "test2",
+    "bank": "wells",
+    "payments": false,
+    "clients": false,
+    "advisors": false
+  },
+  {
+    "erp": "test3",
+    "bank": "bmo",
+    "payments": false,
+    "clients": false,
+    "advisors": false
+  },
+  {
+    "erp": "test3",
+    "bank": "cibc",
+    "payments": false,
+    "clients": false,
+    "advisors": false
+  },
+  {
+    "erp": "test3",
+    "bank": "wells",
+    "payments": false,
+    "clients": false,
+    "advisors": false
+  }
+]
